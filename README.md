@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-client-blush-nine.vercel.app/](https://portfolio-client-blush-nine.vercel.app/)
 
-- 💬 Ask me about **React JS, Next JS**
+- 💬 Ask me about **MERN Stack**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EVwnaaRAKRxyR79_N8ElP00xqp4tsZoP/view](https://drive.google.com/file/d/1EVwnaaRAKRxyR79_N8ElP00xqp4tsZoP/view)
 
