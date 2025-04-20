@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtanvirahmedemon&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirahmedemon" /> </p>
 
-- 🌱 I’m currently learning **Docker & Socket io**
+- 🌱 I’m currently learning **DSA & DevOps**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-client-blush-nine.vercel.app/](https://portfolio-client-blush-nine.vercel.app/)
 
