@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17oQ2kbi8TwAbcNpGN31KIBBLXK33dntF/view?usp=sharing](https://drive.google.com/file/d/17oQ2kbi8TwAbcNpGN31KIBBLXK33dntF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13Xoo9RD479C0DR5qkDIePSqvjuNaehLq/view?usp=sharing](https://drive.google.com/file/d/13Xoo9RD479C0DR5qkDIePSqvjuNaehLq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
