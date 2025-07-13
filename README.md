@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA & DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-client-blush-nine.vercel.app/](https://portfolio-client-blush-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-liart-omega-55.vercel.app/](https://my-portfolio-liart-omega-55.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
